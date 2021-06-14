@@ -1,5 +1,5 @@
 # Cable Castaways
-So this challenge is really fun so I make a writeup. I solve this on June 14th, after the event finished a day. In the CTF, I mostly do the cryptography so I didn't spent much time in other challenge.
+So this challenge is really fun so I make a writeup. I solve this on June 14th, after the event finished a day. In the CTF, I mostly did the cryptography so I didn't spend much time doing other challenges. The challenge wires.zip is in the "files" folder.
 
 And it reminds me of this video from Ben Eater (https://www.youtube.com/watch?v=l7rce6IQDWs). Go check it out.
 
